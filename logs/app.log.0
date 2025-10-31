@@ -1,0 +1,314 @@
+[2025-10-30 23:41:52] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database schema initialized
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Transaction committed successfully
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Error inserting shop profile
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool shut down
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:41:53] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:41:53] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:41:53] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:41:53] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-30 23:42:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-30 23:42:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-30 23:42:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-30 23:42:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:46] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:46] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:46] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:46] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:22:47] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:22:47] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:22:47] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:22:47] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:41:57] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:41:58] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:41:58] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:41:58] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:46:44] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:46:44] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:46:44] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:46:44] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:46:44] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:52:07] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:52:07] [SEVERE] [DatabaseService] Failed to initialize database connection pool
+[2025-10-31 00:52:07] [SEVERE] [ErrorReporter] Error reported: connectionTimeout cannot be less than 250ms
+[2025-10-31 00:53:11] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:53:11] [SEVERE] [DatabaseService] Failed to initialize database connection pool
+[2025-10-31 00:53:11] [SEVERE] [ErrorReporter] Error reported: connectionTimeout cannot be less than 250ms
+[2025-10-31 00:54:03] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:54:03] [SEVERE] [DatabaseService] Failed to initialize database connection pool
+[2025-10-31 00:54:03] [SEVERE] [ErrorReporter] Error reported: connectionTimeout cannot be less than 250ms
+[2025-10-31 00:55:16] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:55:18] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:55:18] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:55:18] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:55:18] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:56:01] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:56:02] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 00:56:02] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 00:56:02] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 00:56:02] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 00:57:02] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 00:57:02] [SEVERE] [DatabaseService] Failed to initialize database connection pool
+[2025-10-31 00:57:02] [SEVERE] [ErrorReporter] Error reported: connectionTimeout cannot be less than 250ms
+[2025-10-31 01:00:35] [INFO] [ThreadPoolManager] Thread pools initialized
+[2025-10-31 01:00:36] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 01:00:36] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 01:00:36] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 01:00:36] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 01:00:37] [INFO] [PrinterService] Initializing printer with config: PrinterConfig{printerName='Default Printer', printerModel='null', paperWidth=0, paperHeight=0, dpi=0, darkness=0, speed=0, portName='null', baudRate=0, isDefault=true}
+[2025-10-31 01:00:37] [INFO] [PrinterService] Printer initialized successfully.
+[2025-10-31 01:00:37] [INFO] [PrinterService] Initializing printer with config: PrinterConfig{printerName='Default Printer', printerModel='null', paperWidth=0, paperHeight=0, dpi=0, darkness=0, speed=0, portName='null', baudRate=0, isDefault=true}
+[2025-10-31 01:00:37] [INFO] [PrinterService] Printer initialized successfully.
+[2025-10-31 01:00:37] [INFO] [PrinterService] Initializing printer with config: PrinterConfig{printerName='Default Printer', printerModel='null', paperWidth=0, paperHeight=0, dpi=0, darkness=0, speed=0, portName='null', baudRate=0, isDefault=true}
+[2025-10-31 01:00:37] [INFO] [PrinterService] Printer initialized successfully.
+[2025-10-31 01:00:38] [SEVERE] [PrinterService] Error checking printer connection
+[2025-10-31 01:00:38] [SEVERE] [PrinterService] Error retrieving available printers
+[2025-10-31 01:00:38] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:00:38] [WARNING] [CircuitBreaker] Transitioning to OPEN state after 1 failures
+[2025-10-31 01:00:38] [INFO] [ErrorRecoveryManager] Analyzed failure as TRANSIENT, using strategy RETRY_WITH_BACKOFF
+[2025-10-31 01:00:38] [WARNING] [ErrorRecoveryManager] Retry attempt 1 failed: Printer is not connected
+[2025-10-31 01:00:39] [WARNING] [ErrorRecoveryManager] Retry attempt 2 failed: Printer is not connected
+[2025-10-31 01:00:41] [WARNING] [ErrorRecoveryManager] Retry attempt 3 failed: Printer is not connected
+[2025-10-31 01:00:41] [SEVERE] [PrinterService] Recovery failed for printer status exception
+[2025-10-31 01:00:41] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Printed 5 stickers for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Printed 3 stickers for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Printed 0 stickers for item: Test Item
+[2025-10-31 01:00:41] [INFO] [PrinterService] Printed 100 stickers for item: Test Item
+[2025-10-31 01:00:41] [WARNING] [PrinterService] Handling printer errors. Attempting to reset connection.
+[2025-10-31 01:00:41] [SEVERE] [PrinterService] Failed to handle printer errors
+[2025-10-31 01:00:41] [SEVERE] [ErrorReporter] Error reported: Port error
+[2025-10-31 01:00:41] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 01:00:41] [WARNING] [CircuitBreaker] Transitioning to OPEN state after 1 failures
+[2025-10-31 01:00:41] [INFO] [ErrorRecoveryManager] Analyzed failure as TRANSIENT, using strategy RETRY_WITH_BACKOFF
+[2025-10-31 01:00:41] [WARNING] [ErrorRecoveryManager] Retry attempt 1 failed: Printer is not connected
+[2025-10-31 01:00:42] [WARNING] [ErrorRecoveryManager] Retry attempt 2 failed: Printer is not connected
+[2025-10-31 01:00:44] [WARNING] [ErrorRecoveryManager] Retry attempt 3 failed: Printer is not connected
+[2025-10-31 01:00:44] [SEVERE] [PrinterService] Recovery failed for printer status exception
+[2025-10-31 01:00:44] [WARNING] [CircuitBreaker] Transitioning to OPEN state after 1 failures
+[2025-10-31 01:00:44] [INFO] [ErrorRecoveryManager] Analyzed failure as TRANSIENT, using strategy RETRY_WITH_BACKOFF
+[2025-10-31 01:00:44] [WARNING] [ErrorRecoveryManager] Retry attempt 1 failed: Printer is not connected
+[2025-10-31 01:00:45] [WARNING] [ErrorRecoveryManager] Retry attempt 2 failed: Printer is not connected
+[2025-10-31 01:00:47] [WARNING] [ErrorRecoveryManager] Retry attempt 3 failed: Printer is not connected
+[2025-10-31 01:00:47] [SEVERE] [PrinterService] Recovery failed for printer status exception
+[2025-10-31 01:00:47] [WARNING] [CircuitBreaker] Transitioning to OPEN state after 1 failures
+[2025-10-31 01:00:47] [INFO] [PrinterService] Printed -1 stickers for item: Test Item
+[2025-10-31 01:00:47] [INFO] [PrinterService] Initializing printer with config: PrinterConfig{printerName='Default Printer', printerModel='null', paperWidth=0, paperHeight=0, dpi=0, darkness=0, speed=0, portName='null', baudRate=0, isDefault=true}
+[2025-10-31 01:00:47] [INFO] [PrinterService] Printer initialized successfully.
+[2025-10-31 01:00:47] [INFO] [PrinterService] Initializing printer with config: PrinterConfig{printerName='Default Printer', printerModel='null', paperWidth=0, paperHeight=0, dpi=0, darkness=0, speed=0, portName='null', baudRate=0, isDefault=true}
+[2025-10-31 01:00:47] [INFO] [PrinterService] Printer initialized successfully.
+[2025-10-31 01:00:47] [INFO] [PrinterService] Printed 2147483647 stickers for item: Test Item
+[2025-10-31 01:00:47] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:00:47] [INFO] [PrinterService] Sticker printed successfully for item: Test Item
+[2025-10-31 01:23:16] [INFO] [ResourceManager] Shutdown hook registered
+[2025-10-31 01:23:16] [FINE] [ResourceManager] Registered resource: ConfigManager$$Lambda/0x000002119029a090
+[2025-10-31 01:23:19] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 01:23:19] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 01:23:19] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 01:23:19] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 01:23:43] [INFO] [ResourceManager] Initiating resource cleanup...
+[2025-10-31 01:25:09] [INFO] [ResourceManager] Shutdown hook registered
+[2025-10-31 01:25:09] [FINE] [ResourceManager] Registered resource: ConfigManager$$Lambda/0x0000028c2828a618
+[2025-10-31 01:25:13] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 01:25:13] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 01:25:13] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 01:25:13] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 01:25:14] [INFO] [ResourceManager] Initiating resource cleanup...
+[2025-10-31 01:26:11] [INFO] [ResourceManager] Shutdown hook registered
+[2025-10-31 01:26:11] [FINE] [ResourceManager] Registered resource: ConfigManager$$Lambda/0x00000176b3237260
+[2025-10-31 01:26:12] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 01:26:12] [SEVERE] [DatabaseService] Failed to initialize database
+[2025-10-31 01:26:12] [SEVERE] [ErrorReporter] Error reported: [SQLITE_ERROR] SQL error or missing database (table shop_profile already exists)
+[2025-10-31 01:26:12] [INFO] [ErrorReporter] Error report written to file: logs/error_report.txt
+[2025-10-31 01:26:27] [INFO] [ResourceManager] Initiating resource cleanup...
+[2025-10-31 01:27:16] [INFO] [ResourceManager] Shutdown hook registered
+[2025-10-31 01:27:16] [FINE] [ResourceManager] Registered resource: ConfigManager$$Lambda/0x000001a74d236f68
+[2025-10-31 01:27:17] [INFO] [DatabaseService] Database connection pool initialized
+[2025-10-31 01:27:17] [INFO] [DatabaseService] Database schema initialized
+[2025-10-31 01:27:17] [FINE] [ResourceManager] Registered resource: HikariDataSource

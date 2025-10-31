@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.stickerapp.controllers.ProfileController" spacing="20" prefWidth="400" prefHeight="500">
+   <children>
+      <Label text="Profile Settings" style="-fx-font-size: 18px; -fx-font-weight: bold;" />
+
+      <GridPane hgap="10" vgap="10" alignment="CENTER">
+         <columnConstraints>
+            <ColumnConstraints minWidth="120" prefWidth="120" />
+            <ColumnConstraints minWidth="250" prefWidth="250" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints />
+            <RowConstraints />
+            <RowConstraints />
+            <RowConstraints />
+            <RowConstraints />
+         </rowConstraints>
+
+         <Label text="Shop Name *" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+         <TextField fx:id="shopNameField" promptText="Enter shop name" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+
+         <Label text="GST Number" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+         <TextField fx:id="gstNumberField" promptText="Enter GST number" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+         <Label text="Address" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+         <TextArea fx:id="addressArea" promptText="Enter address" prefRowCount="3" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+         <Label text="Phone Number" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+         <TextField fx:id="phoneNumberField" promptText="Enter phone number" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+
+         <Label text="Email" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+         <TextField fx:id="emailField" promptText="Enter email" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      </GridPane>
+
+      <HBox spacing="10" alignment="CENTER">
+         <children>
+            <Button fx:id="uploadLogoButton" text="Upload Logo" onAction="#handleUploadLogo" />
+            <Button fx:id="removeButton" text="Remove" onAction="#handleRemove" />
+            <Button fx:id="cancelButton" text="Cancel" onAction="#handleCancel" />
+            <Button fx:id="saveButton" text="Save Changes" onAction="#handleSave" style="-fx-base: #4CAF50;" />
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets top="20" right="20" bottom="20" left="20" />
+   </padding>
+</VBox>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane fx:controller="com.stickerapp.controllers.MainController" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <left>
+        <VBox prefWidth="225" styleClass="sidebar">
+            <HBox alignment="CENTER" spacing="10" styleClass="logo-section">
+                <ImageView fitWidth="40" fitHeight="40">
+                    <image>
+                        <Image url="@../images/app-logo.png" />
+                    </image>
+                </ImageView>
+                <Label text="Sticker Printer Pro" styleClass="app-title" />
+            </HBox>
+            <VBox styleClass="nav-menu" spacing="5">
+                <Button text="Print Sticker" styleClass="nav-button" onAction="#showPrintSticker">
+                    <graphic>
+                        <ImageView fitWidth="20" fitHeight="20">
+                            <image>
+                                <Image url="@../images/print-icon.png" />
+                            </image>
+                        </ImageView>
+                    </graphic>
+                </Button>
+                <Button text="Profile Settings" styleClass="nav-button" onAction="#showProfileSettings">
+                    <graphic>
+                        <ImageView fitWidth="20" fitHeight="20">
+                            <image>
+                                <Image url="@../images/profile-icon.png" />
+                            </image>
+                        </ImageView>
+                    </graphic>
+                </Button>
+            </VBox>
+            <VBox VBox.vgrow="ALWAYS" />
+            <Label text="Version 1.0.0" styleClass="version-info" />
+        </VBox>
+    </left>
+    <center>
+        <VBox styleClass="content-area">
+            <Label fx:id="sectionHeader" text="Print Sticker" styleClass="section-header" />
+            <StackPane fx:id="contentPane" VBox.vgrow="ALWAYS">
+                <fx:include fx:id="printStickerView" source="print-sticker-view.fxml" />
+                <fx:include fx:id="profileView" source="profile-view.fxml" visible="false" />
+            </StackPane>
+        </VBox>
+    </center>
+</BorderPane>
