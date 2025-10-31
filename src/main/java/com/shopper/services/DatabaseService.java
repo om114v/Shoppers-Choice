@@ -32,7 +32,7 @@ public enum DatabaseService {
 
     DatabaseService() {
         initializeDataSource();
-        initializeDatabase();
+//        initializeDatabase();
         // Register data source for cleanup
         ResourceManager.getInstance().registerResource(dataSource);
     }

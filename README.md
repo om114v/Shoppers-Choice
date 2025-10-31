@@ -1,6 +1,6 @@
-# Sticker Printer Pro
+# First Choice
 
-Professional sticker printing application for TSC thermal printers.
+Professional desktop application shops.
 
 ## Features
 

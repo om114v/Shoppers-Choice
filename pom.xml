@@ -6,12 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.shopper</groupId>
-    <artifactId>sticker-printer-pro</artifactId>
+    <artifactId>first-choice</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Sticker Printer Pro</name>
-    <description>Professional sticker printing application for TSC thermal printers</description>
+    <name>Shoppers first choice</name>
+    <description>Professional desktop application shops</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
